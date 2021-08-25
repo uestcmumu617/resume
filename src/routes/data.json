@@ -1,0 +1,112 @@
+{
+	"works": [
+		{
+			"companyName": "斯达领科",
+			"city": "成都",
+			"duration": "2021.01",
+			"projects": [
+				{
+					"name": "斯达领科跨境电商ERP管理云",
+					"type": ["pc", "cloud"],
+					"job": "前端专家 管理3人 OKR",
+					"technology": "Vue.js、Babel、Webpack Node.js、Element UI、微前端",
+					"business": "自定义刊登、多语言翻译、自主打版、导出表格、打印"
+				},
+				{
+					"name": "斯达领科跨境电商SRM管理平台",
+					"type": ["pc", "cloud"],
+					"job": "前端架构 管理3人 OKR",
+					"technology": "Vue.js、Babel、Webpack、Node.js、Element UI、Vite",
+					"business": "采购、财务、导出表格、打印、开发者体验"
+				}
+			]
+		},
+		{
+			"companyName": "中移物联网",
+			"city": "成都",
+			"duration": "2020.06",
+			"projects": [
+				{
+					"name": "OneOS官网",
+					"type": ["pc", "mobile"],
+					"job": "前端架构 管理5人 OKR",
+					"technology": "Nuxt.js、TailwindCSS、单元测试"
+				},
+				{
+					"name": "OneOS集成开发环境",
+					"type": ["pc", "extension"],
+					"job": "前端专家 管理10人 OKR",
+					"technology": "vscode插件开发",
+					"business": "开发者体验"
+				}
+			]
+		},
+		{
+			"companyName": "中国太保",
+			"city": "成都",
+			"outsourcing": true,
+			"duration": "2019.07",
+			"projects": [
+				{
+					"name": "太平洋保险APP积分商城",
+					"type": ["mobile"],
+					"job": "项目经理 管理5人 敏捷",
+					"technology": "RN、Redux、跨平台",
+					"business": "商品信息、上架管理、收藏、订单、购物车、积分支付、秒杀 "
+				}
+			]
+		},
+		{
+			"companyName": "中网数据",
+			"city": "成都",
+			"duration": "2017.09",
+			"projects": [
+				{
+					"name": "iDTP中网大数据技术平台",
+					"type": ["pc", "cloud"],
+					"job": "高级前端 管理8人 敏捷",
+					"technology": "React、GraphQL、MobX、Ant Design UI、D3.js、Highcharts、SVG",
+					"business": "知识图谱引擎、数据可视化"
+				}
+			]
+		},
+		{
+			"companyName": "中电普信",
+			"city": "北京",
+			"duration": "2013.09",
+			"projects": [
+				{
+					"name": "通用系统仿真平台USSP",
+					"type": ["pc"],
+					"job": "高级前端 管理10人 KPI",
+					"technology": "jQuery、Cesium、OpenGL",
+					"business": "地理信息系统、三维视景仿真"
+				}
+			]
+		}
+	],
+	"educations": [
+		{
+			"companyName": "电子科技大学",
+			"city": "成都",
+			"duration": "2006.09",
+			"projects": [
+				{
+					"name": "信号与信息处理",
+					"degree": "硕士",
+					"course": "矩阵理论 随机过程 模式识别 图像处理 信息论 数值分析"
+				},
+				{
+					"name": "电子信息工程",
+					"degree": "学士",
+					"course": "数学分析 微积分 线性代数 信号与系统 数据结构 操作系统 编译原理 数字设计 C语言 汇编原理"
+				}
+			]
+		},
+		{
+			"duration": "1988.06",
+			"city": "太原",
+			"projects": []
+		}
+	]
+}

@@ -1,0 +1,25 @@
+@tailwind base;
+/* Write your global styles here, in PostCSS syntax */
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'sarasa';
+	src: url('/sarasa-mono-sc-regular.ttf');
+}
+@font-face {
+	font-family: 'iconfont';
+	src: url('//at.alicdn.com/t/font_2760686_l5wtp542pas.woff2?t=1629792155857') format('woff2');
+}
+html {
+	font-family: 'sarasa', 'iconfont';
+}
+body {
+	font-size: 12px;
+}
+@media print {
+	@page {
+		size: A4;
+		margin: 5mm;
+	}
+}
